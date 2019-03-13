@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="second" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-03-13T12:29:42" hostname="evgeny-TM1701" time="0.013">
+  <properties />
+  <testcase name="Get maximum from two numbers:maximum of two numbers[0]" classname="DataDrivenSpec" time="0.001" testCaseId="321316623" />
+  <testcase name="Get maximum from two numbers:maximum of two numbers[1]" classname="DataDrivenSpec" time="0.0" testCaseId="321316623" />
+  <testcase name="Get maximum from two numbers:maximum of two numbers[2]" classname="DataDrivenSpec" time="0.0" testCaseId="321316623" />
+  <testcase name="Get minimum from two numbers:minimum of 3 and 7 is 3" classname="DataDrivenSpec" time="0.001" testCaseId="3213123" />
+  <testcase name="Get minimum from two numbers:minimum of 5 and 4 is 4" classname="DataDrivenSpec" time="0.001" testCaseId="3213123" />
+  <testcase name="Get minimum from two numbers:minimum of 9 and 9 is 9" classname="DataDrivenSpec" time="0.0" testCaseId="3213123" />
+  <testcase name="Get valid sex of person:Fred is a male person" classname="DataDrivenSpec" time="0.0" testCaseId="32131232323" />
+  <testcase name="Get valid sex of person:Wilma is a female person" classname="DataDrivenSpec" time="0.001" testCaseId="32131232323" />
+  <system-out />
+  <system-err />
+</testsuite>

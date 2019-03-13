@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="first" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-13T12:29:42" hostname="evgeny-TM1701" time="0.09">
+  <properties />
+  <testcase name="Numbers validation:maximum of two numbers" classname="DatabaseDrivenSpec" time="0.09" />
+  <system-out />
+  <system-err />
+</testsuite>

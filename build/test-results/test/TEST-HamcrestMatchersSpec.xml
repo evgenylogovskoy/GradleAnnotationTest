@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="third" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-13T12:29:42" hostname="evgeny-TM1701" time="0.037">
+  <properties />
+  <testcase name="Comparing numbers:comparing two decimal numbers" classname="HamcrestMatchersSpec" time="0.037" />
+  <system-out />
+  <system-err />
+</testsuite>
